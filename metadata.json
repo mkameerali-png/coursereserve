@@ -1,0 +1,6 @@
+{
+  "name": "CourseReserve — Online Course Reservation System",
+  "description": "Production-grade College Software Engineering Lab Online Course Reservation System with role-based access, atomic reservation workflows, administration, and comprehensive testing module.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
